@@ -95,6 +95,11 @@ Screenshots
 
 
 (Attach your screenshots here)
+<img src="https://github.com/user-attachments/assets/9b1c0baa-e491-4b20-ab09-77dfb9c6672f" alt="Screenshot1" width="auto" height="500"/>
+<img src="https://github.com/user-attachments/assets/87d53777-4628-469b-8d97-09fcf29fc036" alt="Screenshot1" width="auto" height="500"/>
+<img src="https://github.com/user-attachments/assets/ec22462f-5afb-40fa-80fc-9506fd651a9d" alt="Screenshot1" width="auto" height="500"/>
+
+
 ![Simulator Screenshot - iPhone 15 Pro - 2024-09-11 at 17 48 32](https://github.com/user-attachments/assets/9b1c0baa-e491-4b20-ab09-77dfb9c6672f)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-09-11 at 17 50 49](https://github.com/user-attachments/assets/87d53777-4628-469b-8d97-09fcf29fc036)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-09-11 at 17 52 55](https://github.com/user-attachments/assets/ec22462f-5afb-40fa-80fc-9506fd651a9d)

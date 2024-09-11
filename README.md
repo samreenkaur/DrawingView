@@ -83,23 +83,37 @@ extension YourViewController: DrawingViewControllerDelegate
 
 ```
 
+Note: To include camera and gallery permissions in your iOS app, you need to add the appropriate keys to your Info.plist file. These permissions are necessary to request access from the user for using the camera and accessing the photo library.
+
+```
+<key>NSCameraUsageDescription</key>
+<string>We need access to your camera to take photos.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>We need access to your photo library to select photos.</string>
+```
+By adding these keys to your Info.plist, you ensure that your app prompts the user for the necessary permissions to access the camera and photo library.
+
+
 
 Features in Detail
 
 
 Drawing Tools: Choose between pencil, pen, marker, and eraser to create and modify drawings.
+
 Undo/Redo: Easily manage your drawing history with undo and redo options.
+
 Image Selection: Pick images from the camera or gallery to integrate into your drawings.
+
 Image Editing: Edit existing drawings, create new ones, or manipulate images from URLs.
-Screenshots
 
+(Attached screenshots are here)
 
-(Attach your screenshots here)
 
 
 <img src="https://github.com/user-attachments/assets/9b1c0baa-e491-4b20-ab09-77dfb9c6672f" alt="Screenshot1" width="auto" height="500"/>
 <img src="https://github.com/user-attachments/assets/87d53777-4628-469b-8d97-09fcf29fc036" alt="Screenshot1" width="auto" height="500"/>
 <img src="https://github.com/user-attachments/assets/ec22462f-5afb-40fa-80fc-9506fd651a9d" alt="Screenshot1" width="auto" height="500"/>
+<img src="https://github.com/user-attachments/assets/e8578803-cc6a-4e51-b39f-289a70364359" alt="Screenshot1" width="auto" height="500"/>
 
 
 Contributing
